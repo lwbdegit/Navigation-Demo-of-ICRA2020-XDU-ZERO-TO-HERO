@@ -66,8 +66,8 @@ roslaunch roborts_bringup base.launch
 
 ## Video of the demo
 
-www.xxxx.com
-
+https://pan.baidu.com/s/1KJKnnrIgSfwARNMDcOBR7A
+7427
 
 ## Authors
 
