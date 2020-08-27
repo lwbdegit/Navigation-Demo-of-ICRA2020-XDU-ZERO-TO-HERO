@@ -47,6 +47,12 @@ catkin_make
 
 ## Running the Demo
 
+Main packages used:
+roborts_base &
+roborts_bringup &
+roborts_localization &
+roborts_planning
+
 The operation method is as follows.
 
 ### running the launch file
@@ -58,7 +64,7 @@ roslaunch roborts_bringup roborts.launch
 roslaunch roborts_bringup base.launch
 ```
 
-## Video reof the demo
+## Video of the demo
 
 www.xxxx.com
 
