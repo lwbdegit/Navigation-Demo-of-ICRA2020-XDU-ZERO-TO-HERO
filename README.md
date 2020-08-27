@@ -57,8 +57,6 @@ run base and navigation
 roslaunch roborts_bringup roborts.launch
 roslaunch roborts_bringup base.launch
 ```
-run navigation.
-
 
 ## Video reof the demo
 
